@@ -7,7 +7,8 @@ int main()
 
 	int i = 0;
 
-
-
+	//에드 커밋 푸쉬 연습
+	// 수정 정수 수민
+	int b = 3;
 	return 0;
 }
